@@ -1,0 +1,193 @@
+[
+    {
+        "id": 1842616,
+        "name": "Gongju",
+        "name_kr":"공주",
+        "country": "KR",
+        "coord": {
+            "lon": 127.124718,
+            "lat": 36.455559
+        }
+    },
+    {
+        "id": 1841808,
+        "name": "Gwangju",
+        "name_kr":"광주광역시",
+        "country": "KR",
+        "coord": {
+            "lon": 126.916672,
+            "lat": 35.166672
+        }
+    },
+    {
+        "id": 1842225,
+        "name": "Gumi",
+        "name_kr":"구미",
+        "country": "KR",
+        "coord": {
+            "lon": 128.335999,
+            "lat": 36.113602
+        }
+    },
+    {
+        "id": 1842025,
+        "name": "Gunsan",
+        "name_kr":"군산",
+        "country": "KR",
+        "coord": {
+            "lon": 126.711388,
+            "lat": 35.978611
+        }
+    },
+    {
+        "id": 1835327,
+        "name": "Daegu",
+        "name_kr":"대구광역시",
+        "country": "KR",
+        "coord": {
+            "lon": 128.550003,
+            "lat": 35.799999
+        }
+    },
+    {
+        "id": 1841066,
+        "name": "Mokpo",
+        "name_kr":"목포",
+        
+        "country": "KR",
+        "coord": {
+            "lon": 126.388611,
+            "lat": 34.79361
+        }
+    },
+    {
+        "id": 1838519,
+        "name": "Busan",
+        "name_kr":"부산광역시",
+        "country": "KR",
+        "coord": {
+            "lon": 129.050003,
+            "lat": 35.133331
+        }
+    },
+    {
+        "id": 1835895,
+        "name": "Seosan",
+        "name_kr":"서산",
+        "country": "KR",
+        "coord": {
+            "lon": 126.452217,
+            "lat": 36.78167
+        }
+    },
+    {
+        "id": 1835847,
+        "name": "Seoul",
+        "name_kr":"서울특별시",
+        "country": "KR",
+        "coord": {
+            "lon": 127.0,
+            "lat": 37.583328
+        }
+    },
+    {
+        "id": 1836553,
+        "name": "Sokcho",
+        "name_kr":"속초",
+        "country": "KR",
+        "coord": {
+            "lon": 128.59111,
+            "lat": 38.208328
+        }
+    },
+    {
+        "id": 1835553,
+        "name": "Suwon",
+        "name_kr":"수원특례시",
+        "country": "KR",
+        "coord": {
+            "lon": 127.008888,
+            "lat": 37.291111
+        }
+    },
+    {
+        "id": 1835648,
+        "name": "Suncheon",
+        "name_kr":"순천",
+        "country": "KR",
+        "coord": {
+            "lon": 127.489471,
+            "lat": 34.948078
+        }
+    },
+    {
+        "id": 1833742,
+        "name": "Ulsan",
+        "name_kr":"울산광역시",
+        "country": "KR",
+        "coord": {
+            "lon": 129.266663,
+            "lat": 35.566669
+        }
+    },
+    {
+        "id": 1843491,
+        "name": "Iksan",
+        "name_kr":"익산",
+        "country": "KR",
+        "coord": {
+            "lon": 126.954437,
+            "lat": 35.94389
+        }
+    },
+    {
+        "id": 1845457,
+        "name": "Jeonju",
+        "name_kr":"전주",
+        "country": "KR",
+        "coord": {
+            "lon": 127.148888,
+            "lat": 35.821941
+        }
+    },
+    {
+        "id": 1846266,
+        "name": "Jeju City",
+        "name_kr":"제주특별자치도",
+        "country": "KR",
+        "coord": {
+            "lon": 126.521942,
+            "lat": 33.50972
+        }
+    },
+    {
+        "id": 1845759,
+        "name": "Cheonan",
+        "name_kr":"천안",
+        "country": "KR",
+        "coord": {
+            "lon": 127.152199,
+            "lat": 36.806499
+        }
+    },
+    {
+        "id": 1845033,
+        "name": "Chungju",
+        "name_kr":"청주",
+        "country": "KR",
+        "coord": {
+            "lon": 127.93222,
+            "lat": 36.970558
+        }
+    },
+    {
+        "id": 1845136,
+        "name": "Chuncheon",
+        "name_kr":"춘천",
+        "country": "KR",
+        "coord": {
+            "lon": 127.734169,
+            "lat": 37.874722
+        }
+    }
+]
