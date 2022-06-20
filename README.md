@@ -9,4 +9,5 @@
                 > 공주, 광주(전라남도), 구미, 군산, 대구, 대전, 목포, 부산, 서산, 서울, 속초, 수원, 순천, 울산, 익산, 전주, 제주시, 천안, 청주, 춘천
                 > 
             - 날씨 아이콘의 경우 API에서 제공하는 아이콘을 활용합니다.
-<img height=300 src = "https://user-images.githubusercontent.com/75964073/174464693-fc05f4a1-56fe-49e4-a863-8d8b2844b0a9.png">
+
+<img height=300 src = "previews/WeatherFirst.jpeg">
